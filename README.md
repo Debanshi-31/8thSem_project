@@ -33,12 +33,7 @@ PDF (scanned and text-based)
 DOCX
 TXT
 JPG / PNG images
-Installation
-git clone https://github.com/your-username/document-intelligence-system.git
-cd document-intelligence-system
-pip install -r requirements.txt
-Run the Application
-python app.py
+
 
 Open in browser:
 http://127.0.0.1:5000
