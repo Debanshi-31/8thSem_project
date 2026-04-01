@@ -43,9 +43,6 @@ python app.py
 Open in browser:
 http://127.0.0.1:5000
 
-Demo
-
-<img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/7f4235ad-1389-4917-a0cf-703e488e86b1" />
 
 
 Future Improvements
